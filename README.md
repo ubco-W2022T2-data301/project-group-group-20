@@ -1,7 +1,5 @@
 # Group 20 - CCC
 
-- 
-
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project).
