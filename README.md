@@ -22,7 +22,6 @@ The owner of this dataset is a software engineer at Wipro.
 
 - Person 1: Disha: My name is Disha and I plan to major in economics
 - Person 2: Vaishali: My name is Vaishali Raju. I am in the faculty of Management, with a minor in Economics.
-- Person 3: Ajneya: My name is Ajneya and I love maths!
 
 ## Images
 
